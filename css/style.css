@@ -1,0 +1,9 @@
+@import url(https://fonts.googleapis.com/css?family=Rubik:400,500);
+header {
+    padding: 30px;
+    color: rosybrown;
+	text-align: center;
+	max-width: 700px;
+	background:#333333;
+    margin: 0 auto;
+}
